@@ -1,0 +1,13 @@
+・Space Trap
+・Trap Space
+・Trap Ship
+・Beyond Trap
+・Geometry Ship
+・Black Ship
+・OutShip
+・Close Space
+・Close Ship
+・OS(オーエス)
+	OutShipの略
+・EST(エスト)
+	Escape Space Trapの略
