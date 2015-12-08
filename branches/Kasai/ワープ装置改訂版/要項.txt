@@ -1,0 +1,11 @@
+SM_Warp_Standのマテリアルは、デフォで入ってるM_SuperGrid_Glowing_MultiColorで。
+
+
+
+あとおそらくスタティックメッシュやコリジョンの高さ（Zの値）が変なことになっていると思うので、各コンポーネントの高さは次のようにしてください
+
+
+SM_Warp_Ripple　→　18
+SM_Warp_Stand　 →  18
+Point_Arrow     →   0
+Hit_Collision   →  22
