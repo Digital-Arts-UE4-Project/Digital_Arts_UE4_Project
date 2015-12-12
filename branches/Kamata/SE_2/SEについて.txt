@@ -1,0 +1,11 @@
+効果音ラボ
+http://soundeffect-lab.info/
+
+
+LaserDamage2…決定ボタン押下１１
+LaserDamage3…パワーアップ
+LaserDamage4…雷魔法１
+Gate2…パソコンの電源を切る
+UI…決定ボタン押下２
+
+素材は全て効果音ラボから持ってきました
