@@ -1,0 +1,18 @@
+まずCableLineとPostProcessMaterialをプロジェクトのContentに追加して、
+そのあとBP_Deviceを上書きする
+
+
+FirstPersonCharacter内のBPで次のノードを作る（Fを押したらポストプロセスをかける）
+
+F→FlipFlop　A→SetScalarParameterValue（MP_GimmickColorPostProcess　1）
+　　　　　　 B→SetScalarParameterValue（MP_GimmickColorPostProcess　0）
+
+
+そのあとAddComponentでPostProcessを追加
+PostProcessVolume→Settings→Blendablesにポストプロセスを追加する（２つ）
+
+
+ProjectSettings→Rendering→PostProcessing→CustomDepthStencilPassをEnabled with Stencilにする
+
+
+あとは装置にラインやギミックを追加すれば装置に合わせて色が変わるようになります
