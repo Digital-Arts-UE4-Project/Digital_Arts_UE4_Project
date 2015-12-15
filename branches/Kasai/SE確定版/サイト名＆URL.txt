@@ -1,7 +1,9 @@
 ・使用したサイト
 ふりーむ！素材ライブラリー（ワープ音）
 ～On_Jin～音人（エレベーター音）
+ポケットサウンド(ブロックギミック音)
 
 ・URL
-http://stock.freem.ne.jp/audio/detail/3542（ワープ音）
-http://on-jin.com/o/510（エレベーター音）
+http://www.freem.ne.jp/information/policy_stock（ワープ音）
+http://on-jin.com/kiyaku.php（エレベーター音）
+http://pocket-se.info/rules/(ブロックギミック音)
