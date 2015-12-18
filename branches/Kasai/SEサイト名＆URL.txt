@@ -3,9 +3,11 @@
 ～On_Jin～音人（エレベーター音、ガラス割れた音、鳴き声(Findの方)）
 ポケットサウンド(ブロックギミック音)
 Wingles Seraph(ダメージ音)
+効果音ラボ(鳴き声(Walkの方))
 
 ・URL
 http://www.freem.ne.jp/information/policy_stock（ワープ音）
 http://on-jin.com/kiyaku.php（エレベーター音）
 http://pocket-se.info/rules/(ブロックギミック音)
 http://wingless-seraph.net/material-riyoukiyaku.html(ダメージ音)
+http://soundeffect-lab.info/agreement/(敵の鳴き声)
